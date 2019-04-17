@@ -99,9 +99,9 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
-
+   profileurl: https://stackoverflow.com/users/11375750/tswift
+   flairimageurl: https://stackoverflow.com/users/flair/11375750.png
+   
 intro: |
   As a lifelong learner, I continue to demonstrate mastery of the Agile mindset and associated frameworks, and has served numerous Agile teams as a Scrum Master and Coach. 
   I have partnered with transportation, healthcare, government, manufacturing, and technology organizations, which has led to a variety of real world experiences that customers can relate to. 
