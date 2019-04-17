@@ -10,15 +10,15 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: https://www.stachedknowledge.com/blog
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/thetoddfather
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
+   url: https://stackexchange.com/users/15765132/tswift
  - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://dzone.com/users/3649009/toddvocado.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/toddswift/
 
 #Any buzzword skills you want to include
 skills:
