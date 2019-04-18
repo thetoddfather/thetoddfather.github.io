@@ -12,7 +12,7 @@ primarylinks:
  - title: Blog
    url: https://www.stachedknowledge.com/blog
  - title: GitHub
-   url: https://github.com/thetoddfather
+   url: https://github.com/toddswift
  - title: StackOverflow
    url: https://stackexchange.com/users/15765132/tswift
  - title: DZone
@@ -22,12 +22,92 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Product management
+ - Lean
+ - Agile
+ - Scaled Agile Framework (SAFe)
+ - Scrum (PSM)
+ - Kanban
+ - XP
+ - Waterfall
+ - PMI
+ - Enterprise Transformation
+ - Agile Testing
+ - Strategic Planning
+ - Organizational Change
+ - Entrepreneurial Leadership
+ - Business Development
+ - Software Delivery
+ - Process Improvements
+ - Conflict Resolution
+ - Workshop Facilitation
+ - Value Stream Mapping
+ - Gap Analysis
+ - Communication
+ - Quality Control
+ - Quality Assurance
+ - Statistical Process Control
+ - Relentless Improvement
+ - Six Sigma
+ - Business Analysis
+ - Systems Analysis
+ - Technical Writing
+ - Proposals
+ - Risk Management
+ - Project Management
+ - PCI Compliance
+ - Feature Driven Development
+ - Behavior Driven Development (BDD)
+ - Test Driven Development (TDD)
+ - Agile Modeling
+ - Unified Modeling Language (UML)
+ - Business Process Modeling Notation (BPMN)
+ - Training and Facilitation
+ - Jira (including numerous addons and plug ins)
+ - Agile Craft (Jira Align)
+ - Confluence
+ - Git
+ - GitHub
+ - Bitbucket
+ - Bamboo CI/CD
+ - Agility Health Radar
+ - JFrog Artifactory
+ - Jenkins
+ - Cucumber TeamCity
+ - Slack
+ - AWS
+ - LeanKit
+ - Miro
+ - Trello
+ - Pega 7
+ - Azure
+ - Azure DevOps
+ - Microsoft Dynamics 365 CRM
+ - Power BI
+ - Niku/Clarity
+ - Visual Studio
+ - JavaScript
+ - VB6
+ - C#
+ - Visual Basic
+ - HTML5
+ - CSS
+ - Eclipse
  - Java
+ - IntelliJ
+ - Kotlin
+ - MySQL
  - SQL
+ - Photoshop
+ - Visio
+ - Source Safe
+ - all Microsoft Office applications
+ - SharePoint 
+ - Microsoft Project
+ - Project Online/Server
+ - Product management
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://stachedknowledge.com/feed.xml
+blogfeed: https://stachedknowledge.com/blog
 
 #Work experience is required
 roles:
@@ -103,9 +183,13 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/11375750.png
    
 intro: |
-  As a lifelong learner, I continue to demonstrate mastery of the Agile mindset and associated frameworks, and has served numerous Agile teams as a Scrum Master and Coach. 
-  I have partnered with transportation, healthcare, government, manufacturing, and technology organizations, which has led to a variety of real world experiences that customers can relate to. 
-  I earned my SPC credential in 2018 and enjoy teaching and coaching individuals throughout the Lean Enterprise, and the public.  
+  Passionate servant leader rooted in Lean-Agile principles that exemplifies the core values of Alignment, Built-In Quality, Transparency, and Program Execution.
+  Extensive experience in all aspects of cultural change, transformation, and relentless improvement.  
+  Deep history of working with IT Development, Operations, Project Management, Procurement, Human Resources, Legal, Marketing, and Regulatory. 
+  Background includes driving continuous improvement and strengthening an organizations Lean-Agile practices by partnering with leadership to stand up and sustain guiding coalitions, Centers of Excellence, and Communities of Practices.
+  Strong relationship building skills that have established long lasting partnerships between IT and business leaders at all levels. 
+  Successfully built, launched, managed and led numerous multi-million-dollar, global cross-functional Agile Release Trains with the ability to plan and align a 40000+ company through a Lean-Agile transformation.
+  Proven success from C-Level to Team Level. A passionate, lifelong learner and contributor through teaching, speaking, mentoring, workshop facilitation, conferences, certifications and collaborative partnerships. 
   My lifelong dream is to teach SAFe® courses in Latin America and Spain; and increase awareness in Lean Agile frameworks to native Spanish speakers. 
   In my spare time, my wife and Irepresent Subaru as Brand Ambassadors ♡, educating the public on improving environmental practices and the benefits of Subaru ownership. (♻)
 
