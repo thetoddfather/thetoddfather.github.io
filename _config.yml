@@ -24,6 +24,7 @@ primarylinks:
 skills:
  - Lean
  - Agile
+ - Coaching
  - Scaled Agile Framework (SAFe)
  - Scrum (PSM)
  - Kanban
@@ -57,7 +58,9 @@ skills:
  - PCI Compliance
  - Feature Driven Development
  - Behavior Driven Development (BDD)
+ - Acceptance Test Drive Development (ATDD)
  - Test Driven Development (TDD)
+ - Contract Drive Development (CDD)
  - Agile Modeling
  - Unified Modeling Language (UML)
  - Business Process Modeling Notation (BPMN)
