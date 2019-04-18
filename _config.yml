@@ -208,8 +208,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/11375750/tswift
-   flairimageurl: https://stackoverflow.com/users/flair/11375750.png
-   
+   flairimageurl: https://stackoverflow.com/users/flair/11375750.png?theme=clean
 intro: |
   Passionate servant leader rooted in Lean-Agile principles that exemplifies the core values of Alignment, Built-In Quality, Transparency, and Program Execution.
   Extensive experience in all aspects of cultural change, transformation, and relentless improvement.  
