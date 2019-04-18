@@ -96,7 +96,7 @@ skills:
  - CSS
  - Eclipse
  - Java
- - IntelliJ
+ - IntelliJ IDEA
  - Kotlin
  - MySQL
  - SQL
@@ -129,12 +129,37 @@ roles:
    end: 2019
    employer: Sogeti / Capgemini
    description: TBD
- - title: Associate Manager
+ - title: Senior Agile Project Manager
+   start: 2017
+   end: 2017
+   employer: Guilford Group
+   description: TBD.
+ - title: Senior Agile Project Manager
+   start: 2014
+   end: 2017
+   employer: Defenders
+   description: TBD.
+ - title: Agile Project Manager
    start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
-
+   end: 2014
+   employer: Guilford Group
+   description: TBD.
+ - title: Control/Electrical Engineer
+   start: 2005
+   end: 2005
+   employer: Pilkington
+   description: TBD.
+ - title: Software Engineer
+   start: 2003
+   end: 2005
+   employer: Flexware Innovation
+   description: TBD.
+ - title: Software Engineer
+   start: 2002
+   end: 2003
+   employer: George Koch Sons
+   description: TBD.
+   
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
