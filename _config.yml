@@ -196,6 +196,7 @@ speakerdeck:
 github:
  - toddswift/toddswift.github.io
  - toddswift/worldretroday.github.io
+ - toddswift/official-guide
 
 #Stackoverflow flair is optional
 stackoverflow:
