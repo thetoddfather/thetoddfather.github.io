@@ -194,16 +194,8 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ - toddswift/toddswift.github.io
+ - toddswift/worldretroday.github.io
 
 #Stackoverflow flair is optional
 stackoverflow:
