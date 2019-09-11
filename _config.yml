@@ -114,9 +114,14 @@ blogfeed: https://www.stachedknowledge.com/feed.xml
 
 #Work experience is required
 roles:
- - title: Agile Coach
+- title: Agile Transformation Coach
    start: 2019
    end: Ongoing
+   employer: Chevron
+   description: Serve as a member of the Lean Agile Center of Excellence which helps optimize and sustain Agile transformation accross the enterprise.
+ - title: Agile Coach
+   start: 2019
+   end: 2019
    employer: Anthem
    description: I am proud to serve as a mentor/advisor, trainer, and consultant while coaching multiple teams to adopt mindsets and methods that deliver  sustainable value in the shortest possible lead time throughout Enterprise transformations. I am passionate to help individuals and teams to  incorporate new learnings into their daily work and apply agile and lean thinking to the specific environment and impediments they will face.
  - title: Owner and Lean Agile Instructor
