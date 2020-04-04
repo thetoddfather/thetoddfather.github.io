@@ -65,11 +65,15 @@ skills:
  - Unified Modeling Language (UML)
  - Business Process Modeling Notation (BPMN)
  - Training and Facilitation
+ - Mural
+ - ScaledAgile Weave
  - Azure DevOps
  - Jira (including numerous addons and plug ins)
  - Agile Craft (Jira Align)
  - Confluence
  - Git
+ - Swift Kanban
+ - Kabanize
  - GitHub
  - Bitbucket
  - Bamboo CI/CD
@@ -115,7 +119,7 @@ blogfeed: https://www.stachedknowledge.com/feed.xml
 
 #Work experience is required
 roles:
- - title: Agile Transformation Coach
+ - title: Agile Coach
    start: 2019
    end: 2020
    employer: Chevron
