@@ -119,6 +119,21 @@ blogfeed: https://www.stachedknowledge.com/feed.xml
 
 #Work experience is required
 roles:
+ - title: Agile Coach and RTE
+   start: 2021
+   end: Ongoing
+   employer: CNO Financial Group
+   description: Product Owner of the LACE and helped launch 2 ARTs including Value Stream Mapping
+ - title: Founder
+   start: 2020
+   end: Ongoing
+   employer: Agile Currensea
+   description: Not for profit focusing on keeping Tampa Bay waterways and beaches free of plastic and marine debris
+ - title: RTE
+   start: 2020
+   end: 2021
+   employer: Experis
+   description: Planned and Launched an ART for the Claims and Marketing Value Stream of a Healthcare Provider
  - title: Agile Coach
    start: 2019
    end: 2020
@@ -207,4 +222,4 @@ additionalinfo: |
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Azure DevOps, Bitbucket, Bamboo, Maven, Sonar, Jenkins, JFrog, Docker , etc. I also have experience with an array of testing tools and technologies. (Seleniumm, JUnit, nUnit, etc.)<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Python, Kotlin, and cloud platforms such as Azure/AWS. <br/><br/>
    
-   I write a blog discussing adopting Lean Agile mindsets that can be found here: <a target='_blank' href="https://www.stachedknowledge.com/blog">stachedknowledge.com/blog</a>
+   I write a blog discussing adopting Lean Agile mindsets that can be found here: <a target='_blank' href="https://www.stachedknowledge.com/blog-1">stachedknowledge.com/blog</a>
